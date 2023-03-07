@@ -1,0 +1,43 @@
+.footer{
+    margin-top: 24px;
+    height: 200px;
+    background-color: #224168;
+    color: white;
+    
+}
+
+.container-footer{
+    margin-top: 10px;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.eCart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.help{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.shop{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.follow{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
